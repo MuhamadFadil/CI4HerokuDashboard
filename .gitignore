@@ -7,6 +7,8 @@
 .AppleDouble
 .LSOverride
 
+composer.lock
+
 # OS X Thumbnails
 ._*
 
